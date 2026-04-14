@@ -130,8 +130,3 @@ logs/alerts.log
 **Syed Anwar Rizvi**
 GitHub: https://github.com/anwar-78
 
----
-
-## ⭐ If you like this project
-
-Give it a ⭐ on GitHub!
